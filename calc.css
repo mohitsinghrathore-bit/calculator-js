@@ -1,0 +1,19 @@
+#display{
+    background-color: gray;
+    height:6rem;
+    width:30rem;
+}
+table{
+    width: 30rem;
+    height: 20rem;
+    border: 1px solid lightblue;
+}
+#calculator table tr th{
+    font-size: 2.2rem;
+}
+.last-column{
+    background-color: mediumslateblue;
+}
+body>div{
+    margin: 10rem;
+}
